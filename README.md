@@ -8,7 +8,7 @@
 | chuhongwei    | 褚宏伟 | 18342014 | [简单web服务开发](https://gitee.com/chuhw3/game_unity/blob/master/service/%E7%AE%80%E5%8D%95web%E6%9C%8D%E5%8A%A1%E5%BC%80%E5%8F%91%E5%B0%8F%E7%BB%93.md) |
 | beilineili    | 黄进   | 18342029 |                                                              |
 | zengty-2018   | 曾涛煜 | 18342007 | [服务计算作业九——前后端分离的开发](https://blog.csdn.net/Floating__dust/article/details/111489655) |
-| zhanky3       | 詹科宇 | 18342124 |                                                              |
+| zhanky3       | 詹科宇 | 18342124 | [服务计算hw9———简单 web 服务与客户端开发实战](https://blog.csdn.net/weixin_43963659/article/details/111475896)                                                            |
 <br>
 
 
